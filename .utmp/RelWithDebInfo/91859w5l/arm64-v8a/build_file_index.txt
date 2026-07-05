@@ -1,0 +1,2 @@
+D:\Harsh\Work\BattleBucks\Tech_artist_proj-main\Tech_artist_proj-main\Technical_Artist\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Harsh\Work\BattleBucks\Tech_artist_proj-main\Tech_artist_proj-main\Technical_Artist\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
