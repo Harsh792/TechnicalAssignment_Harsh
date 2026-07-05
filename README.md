@@ -100,16 +100,20 @@ The project is developed in Unity using the Universal Render Pipeline (URP) with
 
 ```text
 Assets/
-|
+│
+├── _Materials/
 ├── Scripts/
-├── Prefabs/
-├── Materials/
-├── Textures/
-├── Shaders/
-├── Scenes/
-├── Models/
-├── Audio/
-└── UI/
+├── generic-passenger-car-pack/
+└── Harsh/
+    ├── Font/
+    ├── Materials/
+    ├── Models/
+    ├── Prefab/
+    ├── Scenes/
+    ├── Scripts/
+    ├── Shader/
+    ├── Sounds/
+    └── Textures/
 ```
 
 ---
