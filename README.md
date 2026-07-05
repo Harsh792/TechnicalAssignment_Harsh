@@ -31,8 +31,10 @@ The project is developed in Unity using the Universal Render Pipeline (URP) with
 ### Environment
 
 * Infinite road generation
+* Custom made shader graph
 * Stylized environment assets
-* Dynamic Day/Night transition
+* Custumizable sky box
+* Day Environment
 * Rain effect
 * Optimized lighting
 
@@ -43,6 +45,7 @@ The project is developed in Unity using the Universal Render Pipeline (URP) with
 * Car tilt animation while switching lanes
 * Crash physics on collision
 * Camera follow system using Cinemachine
+* Glowing lights
 
 ### Visual Effects
 
@@ -56,6 +59,7 @@ The project is developed in Unity using the Universal Render Pipeline (URP) with
 * Bright, high-contrast color palette
 * Low-poly environment
 * Mobile-friendly URP materials
+* Post Processing
 
 ### Audio
 
@@ -74,11 +78,13 @@ The project is developed in Unity using the Universal Render Pipeline (URP) with
 
 * Mobile optimized
 * GPU Instancing enabled where applicable
+* Dynamic and ststic batching
 * Baked lighting
 * Reduced real-time lighting
 * Optimized textures
 * Optimized materials
 * Low-overhead shaders
+* Reduce Draw calls
 
 ---
 
@@ -88,11 +94,14 @@ The project is developed in Unity using the Universal Render Pipeline (URP) with
 
 * Swipe Left → Move Left
 * Swipe Right → Move Right
+* Swipe Up → Speed Increased
+
 
 ### Editor
 
-* Left Arrow / A → Move Left
-* Right Arrow / D → Move Right
+* Swipe Mouse Left → Move Left
+* Swipe Mouse Right → Move Right
+* Swipe Mouse Up → Speed Increased
 
 ---
 
@@ -150,7 +159,6 @@ Features include:
 * Baked Global Illumination
 * Single Directional Light
 * GPU Instancing
-* Texture Atlasing where possible
 * Shared Materials
 * Optimized Meshes
 * Reduced Draw Calls
@@ -187,17 +195,6 @@ Features include:
 
 ---
 
-## Future Improvements
-
-* Additional vehicle types
-* More obstacle variations
-* Vehicle customization
-* Power-ups
-* Online leaderboard
-* Achievement system
-* Improved weather system
-
----
 
 ## Work Completed
 
