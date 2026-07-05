@@ -101,19 +101,32 @@ The project is developed in Unity using the Universal Render Pipeline (URP) with
 ```text
 Assets/
 │
-├── _Materials/
-├── Scripts/
-├── generic-passenger-car-pack/
-└── Harsh/
-    ├── Font/
-    ├── Materials/
-    ├── Models/
-    ├── Prefab/
-    ├── Scenes/
-    ├── Scripts/
-    ├── Shader/
-    ├── Sounds/
-    └── Textures/
+├── _Assets/                         # Main project assets
+│   ├── _Materials/
+│   ├── Scripts/
+│   ├── generic-passenger-car-pack/
+│   └── Harsh/
+│       ├── Font/
+│       ├── Materials/
+│       ├── Models/
+│       ├── Prefab/
+│       ├── Scenes/
+│       ├── Scripts/
+│       ├── Shader/
+│       ├── Sounds/
+│       └── Textures/
+│
+├── Farland Skies/                   # Skybox assets
+├── Free Stylized .../               # Environment assets
+├── GabrielAguiar.../                # VFX assets
+├── Settings/                        # URP/Project settings
+├── Shaders/                         # Shared shaders
+├── TextMesh Pro/                    # TextMesh Pro resources
+├── ToonAssets/                      # Toon assets
+├── TutorialInfo/                    # Unity tutorial files
+├── UI/                              # UI assets
+├── InputSystem...                   # Unity Input System
+└── Readme
 ```
 
 ---
