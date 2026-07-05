@@ -119,7 +119,7 @@ Assets/
 │       ├── Materials/
 │       ├── Models/
 │       ├── Prefab/
-│       ├── Scenes/
+│       ├── Scenes/                  # MainGame Scene
 │       ├── Scripts/
 │       ├── Shader/
 │       ├── Sounds/
